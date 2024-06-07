@@ -11,4 +11,4 @@ In particolare, lo script può eseguire le seguenti operazioni:
 - stampa numero fatture: il numero delle fatture per ogni anno è stampato a video.
 
 
-Le operazioni sono gestite tramite stampa di menù e messaggi testuali. Il codice gestisce anche il controllo dei casi particolari. Per esempio, controllo della validità e correttezza di tutti i dati inseriti dall'utente tramite tastiera, gestione di copie multiple di fatture nella directory di lavoro, ecc.
+Le operazioni sono gestite tramite stampa di menù e messaggi testuali. Il codice controlla anche i casi particolari; per esempio, controllo della validità e correttezza di tutti i dati inseriti dall'utente tramite tastiera, gestione di copie multiple di fatture nella directory di lavoro, ecc.
